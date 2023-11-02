@@ -3,7 +3,7 @@
 
 A YouTube-inspired webpage created solely using HTML and CSS.
 
-![Image](assets/screenshots/main.png)
+![Image](screenshots/main.png)
 
 
 ## Features
