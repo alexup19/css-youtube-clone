@@ -13,6 +13,7 @@ A YouTube-inspired webpage created solely using HTML and CSS.
 - Custom Fonts
 - Flexbox
 - Media Queries
+- Tooltips
 
 
 ## Acknowledgements
